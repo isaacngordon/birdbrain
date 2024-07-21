@@ -22,7 +22,7 @@ env:
   PACKAGE_NAME: bevy-jam-o0-birdbrain
   # The itch.io page to upload to, in the format: `user-name/project-name`.
   # Comment this out to disable.
-  ITCH_TARGET: isaacngordon/bevy-jam-o0-birdbrain
+  ITCH_TARGET: isaacngordon/birdbrain
   # The organization or author that owns the rights to the game.
   OWNER: isaacngordon
   # The path to the assets directory.
